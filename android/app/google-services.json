@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985424110529",
+    "project_id": "locationtest-1d0c9",
+    "storage_bucket": "locationtest-1d0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985424110529:android:1debc46b08d190fe618540",
+        "android_client_info": {
+          "package_name": "compass.locationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985424110529-2kljs1ksun4942l0pijpdplc2l2408pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKo9j4Ii-VAbF96O1nSRjHXf1lLj3ds4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985424110529-2kljs1ksun4942l0pijpdplc2l2408pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
